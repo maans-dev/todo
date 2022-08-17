@@ -1,0 +1,10 @@
+* {
+  background-color: #8D918D;
+}
+
+.todoform {
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  
+}
